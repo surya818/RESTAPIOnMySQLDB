@@ -1,0 +1,7 @@
+model/ProjectManager.class
+webService/CarService.class
+dto/Website.class
+dao/Database.class
+webService/FeedService.class
+dto/Car.class
+dao/Project.class
